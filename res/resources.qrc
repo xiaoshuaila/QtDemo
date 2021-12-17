@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>splash.png</file>
+        <file>logo.jpg</file>
+        <file>color.png</file>
+        <file>fail.jpg</file>
+        <file>jaintou.png</file>
+        <file>jizhan.png</file>
+        <file>QQ.png</file>
+        <file>renwu.png</file>
+        <file>ship.png</file>
+        <file>zuobiao.png</file>
+        <file>zhaobei.png</file>
+        <file>zhaobeitubiao.png</file>
+        <file>22.png</file>
+        <file>221.png</file>
+        <file>zgdzdx.png</file>
+        <file>cug.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>DWctrler.ico</file>
+        <file>fail.jpg</file>
+        <file>ship.png</file>
+    </qresource>
+</RCC>
